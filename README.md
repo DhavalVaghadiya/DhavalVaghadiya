@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhavalVaghadiya
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning of Software Engineering
+- 🌱 I’m currently studying in MCA at CHARUSAT UNIVERSITY
 - 💞️ I’m looking to collaborate on Github 
 - 📫 reach me with my email:dhavalvaghadiya11@gmail.com
 
